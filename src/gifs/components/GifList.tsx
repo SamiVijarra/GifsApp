@@ -1,5 +1,5 @@
 import type { FC } from 'react';
-import type { Gif } from './interfaces/gif.interfaces';
+import type { Gif } from '../interfaces/gif.interfaces';
 
 interface Props {
   gifs: Gif[];
